@@ -1,2 +1,3 @@
-# codewars-csharp
-Solutions and unit tests for Codewars' Katas
+# CodeWars C#
+
+Just storing solutions for Katas.
