@@ -36,4 +36,22 @@ public class Tests
         //Assert
         Assert.That(actual, Is.EqualTo(expected));
     }
+
+    [Test]
+    [Category("Negative")]
+    public void StockSummaryWithEmptyCategoriesReturnsEmptyString()
+    {
+        //Arrange
+        string[] stockList = [
+            "ABART 20", "CDXEF 50", "BKWRK 25", "BTSQZ 89", "DRTYM 60"
+        ];
+        string[] categories = [];
+        string expected = "";
+
+        //Act
+        string actual = Kata.StockSummary(stockList, categories);
+
+        //Assert
+        Assert.That(actual, Is.EqualTo(expected));
+    }
 }
