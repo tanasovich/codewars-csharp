@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Tests", "HelloWo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller", "Kyu6.HelpTheBookSeller\Kyu6.HelpTheBookSeller.csproj", "{B78B4230-21E6-4FDF-B22D-68267DEC5D8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller.Tests", "Kyu6.HelpTheBookSeller.Tests\Kyu6.HelpTheBookSeller.Tests.csproj", "{8164086D-2858-4272-B039-19388F609684}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{B78B4230-21E6-4FDF-B22D-68267DEC5D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B78B4230-21E6-4FDF-B22D-68267DEC5D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B78B4230-21E6-4FDF-B22D-68267DEC5D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8164086D-2858-4272-B039-19388F609684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8164086D-2858-4272-B039-19388F609684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8164086D-2858-4272-B039-19388F609684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8164086D-2858-4272-B039-19388F609684}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
