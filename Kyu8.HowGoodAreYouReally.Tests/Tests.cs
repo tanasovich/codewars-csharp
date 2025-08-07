@@ -2,14 +2,17 @@ namespace Kyu8.HowGoodAreYouReally.Tests;
 
 public class Tests
 {
-    [SetUp]
-    public void Setup()
-    {
-    }
-
     [Test]
-    public void Test1()
+    public void BetterThanAverageWithLowerAverageReturnsTrue()
     {
-        Assert.Pass();
+        //Arrange
+        int[] grades = [1, 2, 3, 4, 5];
+        int myGrade = 4;
+
+        //Act
+        bool actual = Kata.BetterThanAverage(grades, myGrade);
+
+        //Assert
+        Assert.That(actual, Is.True);
     }
 }
