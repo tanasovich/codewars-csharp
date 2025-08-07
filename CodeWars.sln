@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller", "K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller.Tests", "Kyu6.HelpTheBookSeller.Tests\Kyu6.HelpTheBookSeller.Tests.csproj", "{8164086D-2858-4272-B039-19388F609684}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.HowGoodAreYouReally", "Kyu8.HowGoodAreYouReally\Kyu8.HowGoodAreYouReally.csproj", "{17EB0A2E-DB8C-4EE3-91A5-803BE9D337BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{8164086D-2858-4272-B039-19388F609684}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8164086D-2858-4272-B039-19388F609684}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8164086D-2858-4272-B039-19388F609684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EB0A2E-DB8C-4EE3-91A5-803BE9D337BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EB0A2E-DB8C-4EE3-91A5-803BE9D337BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EB0A2E-DB8C-4EE3-91A5-803BE9D337BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EB0A2E-DB8C-4EE3-91A5-803BE9D337BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
