@@ -29,4 +29,18 @@ public class Tests
         //Assert
         Assert.That(actual, Is.False);
     }
+
+    [Test]
+    public void BetterThanAverageWithEqualAverageReturnsFalse()
+    {
+        //Arrange
+        int[] grades = [3, 3, 3, 3, 3];
+        int myGrade = 3;
+
+        //Act
+        bool actual = Kata.BetterThanAverage(grades, myGrade);
+
+        //Assert
+        Assert.That(actual, Is.False);
+    }
 }
