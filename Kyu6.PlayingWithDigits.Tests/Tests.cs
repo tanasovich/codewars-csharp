@@ -17,4 +17,20 @@ public class Tests
         //Assert
         Assert.That(actual, Is.EqualTo(expected));
     }
+
+    [Test]
+    [Category("Negative")]
+    public void DigitsPowerWithCorrectNumberReturnsMinusOne()
+    {
+        //Arrange
+        int number = 92;
+        int firstPower = 1;
+        int expected = -1;
+
+        //Act
+        long actual = Kata.DigitsPower(number, firstPower);
+
+        //Assert
+        Assert.That(actual, Is.EqualTo(expected));
+    }
 }
