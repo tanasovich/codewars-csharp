@@ -17,7 +17,7 @@ public class Tests
     }
 
     [Test]
-    public void BetterThanAverageWithHigherAverageReturnsTrue()
+    public void BetterThanAverageWithHigherAverageReturnsFalse()
     {
         //Arrange
         int[] grades = [1, 2, 3, 4, 5];
