@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.PlayingWithDigits.Test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.InvertValues", "Kyu8.InvertValues\Kyu8.InvertValues.csproj", "{A381C99B-3783-4D19-BBA1-F330561B4DD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.InvertValues.Tests", "Kyu8.InvertValues.Tests\Kyu8.InvertValues.Tests.csproj", "{27373F87-9D7C-41E7-82FB-406A4BE5B2D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{A381C99B-3783-4D19-BBA1-F330561B4DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A381C99B-3783-4D19-BBA1-F330561B4DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A381C99B-3783-4D19-BBA1-F330561B4DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27373F87-9D7C-41E7-82FB-406A4BE5B2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27373F87-9D7C-41E7-82FB-406A4BE5B2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27373F87-9D7C-41E7-82FB-406A4BE5B2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27373F87-9D7C-41E7-82FB-406A4BE5B2D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
