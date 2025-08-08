@@ -2,14 +2,18 @@ namespace Kyu8.InvertValues.Tests;
 
 public class Tests
 {
-    [SetUp]
-    public void Setup()
-    {
-    }
-
     [Test]
-    public void Test1()
+    [Category("Positive")]
+    public void InvertValuesWithPositiveNumberReturnsNegativeNumber()
     {
-        Assert.Pass();
+        //Arrange
+        int[] numbers = [1, 2, 3];
+        int[] expected = [-1, -2, -3];
+
+        //Act
+        int[] actual = Kata.InvertValues(numbers);
+
+        //Assert
+        Assert.That(actual, Is.EqualTo(expected));
     }
 }
