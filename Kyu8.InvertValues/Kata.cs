@@ -4,6 +4,11 @@ public class Kata
 {
     public static int[] InvertValues(int[] input)
     {
-        return new int[] {};
+        for (int i = 0; i < input.Length; i++)
+        {
+            input[i] = -input[i];
+        }
+        
+        return input;
     }
 }
