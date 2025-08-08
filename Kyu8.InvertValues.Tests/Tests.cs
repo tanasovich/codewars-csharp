@@ -16,4 +16,19 @@ public class Tests
         //Assert
         Assert.That(actual, Is.EqualTo(expected));
     }
+
+    [Test]
+    [Category("Positive")]
+    public void InvertValuesWithNegativeNumberReturnsPositiveNumber()
+    {
+        //Arrange
+        int[] numbers = [-1, -2, -3];
+        int[] expected = [1, 2, 3];
+
+        //Act
+        int[] actual = Kata.InvertValues(numbers);
+
+        //Assert
+        Assert.That(actual, Is.EqualTo(expected));
+    }
 }
