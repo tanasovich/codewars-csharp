@@ -32,4 +32,20 @@ public class Tests
         //Assert
         Assert.That(actual, Is.EqualTo(expected));
     }
+
+    [Test]
+    [Category("Negative")]
+    [Category("Boundary Value")]
+    public void SakuraFallWithInvalidEdgeValueReturnsZero()
+    {
+        //Arrange
+        double velocity = 0;
+        double expected = 0;
+
+        //Act
+        double actual = Kata.SakuraFall(velocity);
+
+        //Assert
+        Assert.That(actual, Is.EqualTo(expected));
+    }
 }
