@@ -2,14 +2,18 @@ namespace Kyu8.TheFallingSpeedOfPetals.Tests;
 
 public class Tests
 {
-    [SetUp]
-    public void Setup()
-    {
-    }
-
     [Test]
-    public void Test1()
+    [Category("Positive")]
+    public void SakuraFallWithCorrectSpeedReturnsCorrectTime()
     {
-        Assert.Pass();
+        //Arrange
+        double velocity = 10;
+        double expected = 40;
+
+        //Act
+        double actual = Kata.SakuraFall(velocity);
+
+        //Assert
+        Assert.That(actual, Is.EqualTo(expected));
     }
 }
