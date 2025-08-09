@@ -2,5 +2,8 @@
 
 public class Kata
 {
-
+    public static double SakuraFall(double petalVelocity)
+    {
+        return 0;
+    }
 }
