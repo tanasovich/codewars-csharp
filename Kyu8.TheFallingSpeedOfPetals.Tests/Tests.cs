@@ -48,4 +48,19 @@ public class Tests
         //Assert
         Assert.That(actual, Is.EqualTo(expected));
     }
+
+    [Test]
+    [Category("Negative")]
+    public void SakuraFallWithInvalidValueReturnsZero()
+    {
+        //Arrange
+        double velocity = -20;
+        double expected = 0;
+
+        //Act
+        double actual = Kata.SakuraFall(velocity);
+
+        //Assert
+        Assert.That(actual, Is.EqualTo(expected));
+    }
 }
