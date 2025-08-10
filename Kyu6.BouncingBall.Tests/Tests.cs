@@ -59,6 +59,8 @@ public class Tests
     [TestCase(42, 0, 21, ExpectedResult = -1, Description = "Bounce negative low edge")]
     [TestCase(42, 999999e-6, 21, ExpectedResult = 1386293, Description = "Bounce positive high edge")]
     [TestCase(42, 1, 21, ExpectedResult = -1, Description = "Bounce negative high edge")]
+    [TestCase(42, 0.5, 41 + 999999e-6, ExpectedResult = 1, Description = "Window < Height")]
+    [TestCase(42, 0.5, 42, ExpectedResult = -1, Description = "Window = Height")]
     public int BallIsSeenCountWithInvalidDataReturnsMinusOne(double height, double bounceRate, double windowHeight)
     {
         return Kata.BallIsSeenCount(height, bounceRate, windowHeight);
