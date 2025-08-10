@@ -17,4 +17,22 @@ public class Tests
         //Assert
         Assert.That(actual, Is.EqualTo(7));
     }
+
+    [Test]
+    [Category("Positive")]
+    [Category("Boundary Value")]
+    [Description("Ball is seen exactly one time")]
+    public void BallIsSeenCountWithBottomBoundaryReturnsOne()
+    {
+        //Arrange
+        double height = 2;
+        double bounceRate = 0.5;
+        double windowHeight = 1;
+
+        //Act
+        int actual = Kata.BallIsSeenCount(height, bounceRate, windowHeight);
+
+        //Assert
+        Assert.That(actual, Is.EqualTo(1));
+    }
 }
