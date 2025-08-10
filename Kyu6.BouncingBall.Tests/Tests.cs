@@ -2,14 +2,19 @@ namespace Kyu6.BouncingBall.Tests;
 
 public class Tests
 {
-    [SetUp]
-    public void Setup()
-    {
-    }
-
     [Test]
-    public void Test1()
+    [Category("Positive")]
+    public void BallIsSeenCountWithCorrectDataReturnsCorrectValue()
     {
-        Assert.Pass();
+        //Arrange
+        double height = 10;
+        double bounceRate = 0.3;
+        double windowHeight = 0.2;
+
+        //Act
+        int actual = Kata.BallIsSeenCount(height, bounceRate, windowHeight);
+
+        //Assert
+        Assert.That(actual, Is.EqualTo(7));
     }
 }
