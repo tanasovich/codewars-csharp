@@ -31,6 +31,20 @@ public class Tests
     }
 
     [Test]
+    public void LikesWitThreeNamesReturnsCorrectLikes()
+    {
+        //Arrange
+        string[] names = new string[] { "Valentine", "Vlad", "Joaquín" };
+        string expected = "Valentine, Vlad and Joaquín like this";
+
+        //Act
+        string actual = Kata.Likes(names);
+
+        //Assert
+        Assert.That(actual, Is.EqualTo(expected));
+    }
+
+    [Test]
     public void LikesWithoutNamesReturnsNobodyLikes()
     {
         //Arrange
