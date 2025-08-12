@@ -45,6 +45,20 @@ public class Tests
     }
 
     [Test]
+    public void LikesWitMoreThanThreeNamesReturnsCorrectLikes()
+    {
+        //Arrange
+        string[] names = new string[] { "Valentine", "Vlad", "Joaquín", "Antonio" };
+        string expected = "Valentine, Vlad and 2 others like this";
+
+        //Act
+        string actual = Kata.Likes(names);
+
+        //Assert
+        Assert.That(actual, Is.EqualTo(expected));
+    }
+
+    [Test]
     public void LikesWithoutNamesReturnsNobodyLikes()
     {
         //Arrange
