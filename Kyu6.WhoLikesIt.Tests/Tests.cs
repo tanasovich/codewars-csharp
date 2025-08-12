@@ -2,14 +2,17 @@ namespace Kyu6.WhoLikesIt.Tests;
 
 public class Tests
 {
-    [SetUp]
-    public void Setup()
-    {
-    }
-
     [Test]
-    public void Test1()
+    public void LikesWithoutNamesReturnsNobodyLikes()
     {
-        Assert.Pass();
+        //Arrange
+        string[] names = new string[0];
+        string expected = "no one likes this";
+
+        //Act
+        string actual = Kata.Likes(names);
+
+        //Assert
+        Assert.That(actual, Is.EqualTo(expected));
     }
 }
