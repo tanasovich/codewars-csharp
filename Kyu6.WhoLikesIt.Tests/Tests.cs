@@ -6,8 +6,8 @@ public class Tests
     public void LikesWitOneNameReturnsCorrectLikes()
     {
         //Arrange
-        string[] names = new string[0];
-        string expected = "no one likes this";
+        string[] names = new string[] { "Valentine" };
+        string expected = "Valentine likes this";
 
         //Act
         string actual = Kata.Likes(names);
