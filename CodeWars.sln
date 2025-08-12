@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.GrasshopperGradeBook.T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt", "Kyu6.WhoLikesIt\Kyu6.WhoLikesIt.csproj", "{405CFCC1-78DF-4B80-838C-D1B26FF7BC6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt.Tests", "Kyu6.WhoLikesIt.Tests\Kyu6.WhoLikesIt.Tests.csproj", "{BA91145E-3C20-4749-B4DB-37F859B57D9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{405CFCC1-78DF-4B80-838C-D1B26FF7BC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{405CFCC1-78DF-4B80-838C-D1B26FF7BC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{405CFCC1-78DF-4B80-838C-D1B26FF7BC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA91145E-3C20-4749-B4DB-37F859B57D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA91145E-3C20-4749-B4DB-37F859B57D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA91145E-3C20-4749-B4DB-37F859B57D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA91145E-3C20-4749-B4DB-37F859B57D9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
