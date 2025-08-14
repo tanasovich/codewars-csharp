@@ -29,4 +29,18 @@ public class Tests
         // Assert
         Assert.That(actual, Is.EqualTo(expected));
     }
+
+    [TestCase(97.2, 1.8)]
+    [TestCase(70, 1.67)]
+    public void BmiWithChubbyBodyReturnsOverweight(double weight, double height)
+    {
+        // Arrange
+        string expected = "Overweight";
+
+        // Act
+        string actual = Kata.Bmi(weight, height);
+
+        // Assert
+        Assert.That(actual, Is.EqualTo(expected));
+    }
 }
