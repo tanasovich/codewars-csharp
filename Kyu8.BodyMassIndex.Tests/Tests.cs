@@ -2,14 +2,17 @@ namespace Kyu8.BodyMassIndex.Tests;
 
 public class Tests
 {
-    [SetUp]
-    public void Setup()
+    [TestCase(60.607, 1.81)]
+    [TestCase(70, 26.4575)]
+    public void BmiWithSlimBodyReturnsUnderweight(double weight, double height)
     {
-    }
+        // Arrange
+        string expected = "Underweight";
 
-    [Test]
-    public void Test1()
-    {
-        Assert.Pass();
+        // Act
+        string actual = Kata.Bmi(weight, height);
+
+        // Assert
+        Assert.That(actual, Is.EqualTo(expected));
     }
 }
