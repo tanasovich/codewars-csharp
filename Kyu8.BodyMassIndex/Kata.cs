@@ -7,15 +7,15 @@ public class Kata
         double bmi = weight / Math.Pow(height, 2);
         if (bmi <= 18.5)
         {
-        return "Underweight";
+            return "Underweight";
         }
         else if (bmi <= 25.0)
         {
-        return "Normal";
+            return "Normal";
         }
         else if (bmi <= 30.0)
         {
-        return "Overweight";
+            return "Overweight";
         }
         
         return "Obese";
