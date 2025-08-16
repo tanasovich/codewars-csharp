@@ -32,4 +32,19 @@ public class Tests
         // Assert
         Assert.That(actual, Is.EqualTo(expected));
     }
+
+    [Test]
+    [Category("Negative")]
+    public void AlphabetPositionWithEmptyStringReturnsEmptyString()
+    {
+        // Arrange
+        string source = "";
+        string expected = "";
+
+        // Act
+        string actual = Kata.AlphabetPosition(source);
+
+        // Assert
+        Assert.That(actual, Is.EqualTo(expected));
+    }
 }
