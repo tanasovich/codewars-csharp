@@ -2,14 +2,18 @@ namespace Kyu6.ReplaceWithAlphabetIndex.Tests;
 
 public class Tests
 {
-    [SetUp]
-    public void Setup()
-    {
-    }
-
     [Test]
-    public void Test1()
+    [Category("Positive")]
+    public void AlphabetPositionWithLettersReturnsLetterIndexes()
     {
-        Assert.Pass();
+        // Arrange
+        string letters = "HelloWorld";
+        string expected = "8 5 12 12 15 23 15 18 12 4";
+
+        // Act
+        string actual = Kata.AlphabetPosition(letters);
+
+        // Assert
+        Assert.That(actual, Is.EqualTo(expected));
     }
 }
