@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.CuboidVolume", "Kyu8.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.CuboidVolume.Tests", "Kyu8.CuboidVolume.Tests\Kyu8.CuboidVolume.Tests.csproj", "{97AE0090-EB6D-492F-A62A-197EEBA25101}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.ReplaceWithAlphabetIndex", "Kyu6.ReplaceWithAlphabetIndex\Kyu6.ReplaceWithAlphabetIndex.csproj", "{0A6A6FCD-F490-493D-A1E8-6B629B849FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.ReplaceWithAlphabetIndex.Tests", "Kyu6.ReplaceWithAlphabetIndex.Tests\Kyu6.ReplaceWithAlphabetIndex.Tests.csproj", "{728D49FF-252E-457F-9B61-120F934E6A12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +148,13 @@ Global
 		{97AE0090-EB6D-492F-A62A-197EEBA25101}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97AE0090-EB6D-492F-A62A-197EEBA25101}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97AE0090-EB6D-492F-A62A-197EEBA25101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6A6FCD-F490-493D-A1E8-6B629B849FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6A6FCD-F490-493D-A1E8-6B629B849FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6A6FCD-F490-493D-A1E8-6B629B849FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6A6FCD-F490-493D-A1E8-6B629B849FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{728D49FF-252E-457F-9B61-120F934E6A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{728D49FF-252E-457F-9B61-120F934E6A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{728D49FF-252E-457F-9B61-120F934E6A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{728D49FF-252E-457F-9B61-120F934E6A12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
