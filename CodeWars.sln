@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Tests", "HelloWorld.Tests\HelloWorld.Tests.csproj", "{C2BF5EE8-CB98-452B-A314-4D2C9B49DDDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller", "Kyu6.HelpTheBookSeller\Kyu6.HelpTheBookSeller.csproj", "{B78B4230-21E6-4FDF-B22D-68267DEC5D8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller", "Kyu6\Kyu6.HelpTheBookSeller\Kyu6.HelpTheBookSeller.csproj", "{B78B4230-21E6-4FDF-B22D-68267DEC5D8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller.Tests", "Kyu6.HelpTheBookSeller.Tests\Kyu6.HelpTheBookSeller.Tests.csproj", "{8164086D-2858-4272-B039-19388F609684}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller.Tests", "Kyu6\Kyu6.HelpTheBookSeller.Tests\Kyu6.HelpTheBookSeller.Tests.csproj", "{8164086D-2858-4272-B039-19388F609684}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.HowGoodAreYouReally", "Kyu8.HowGoodAreYouReally\Kyu8.HowGoodAreYouReally.csproj", "{17EB0A2E-DB8C-4EE3-91A5-803BE9D337BE}"
 EndProject
