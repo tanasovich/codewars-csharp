@@ -19,9 +19,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.PlayingWithDigits", "K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.PlayingWithDigits.Tests", "Kyu6\Kyu6.PlayingWithDigits.Tests\Kyu6.PlayingWithDigits.Tests.csproj", "{52C9C0DB-2D1B-4067-8821-F007F04FC920}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.InvertValues", "Kyu8.InvertValues\Kyu8.InvertValues.csproj", "{A381C99B-3783-4D19-BBA1-F330561B4DD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.InvertValues", "Kyu8\Kyu8.InvertValues\Kyu8.InvertValues.csproj", "{A381C99B-3783-4D19-BBA1-F330561B4DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.InvertValues.Tests", "Kyu8.InvertValues.Tests\Kyu8.InvertValues.Tests.csproj", "{27373F87-9D7C-41E7-82FB-406A4BE5B2D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.InvertValues.Tests", "Kyu8\Kyu8.InvertValues.Tests\Kyu8.InvertValues.Tests.csproj", "{27373F87-9D7C-41E7-82FB-406A4BE5B2D4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.TheFallingSpeedOfPetals", "Kyu8.TheFallingSpeedOfPetals\Kyu8.TheFallingSpeedOfPetals.csproj", "{829FA6BB-A469-4642-833B-6ACFD40E9F47}"
 EndProject
