@@ -39,9 +39,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt", "Kyu6\Kyu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt.Tests", "Kyu6\Kyu6.WhoLikesIt.Tests\Kyu6.WhoLikesIt.Tests.csproj", "{BA91145E-3C20-4749-B4DB-37F859B57D9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.BodyMassIndex", "Kyu8.BodyMassIndex\Kyu8.BodyMassIndex.csproj", "{C115DE7C-0BB7-429D-96D0-6EBBFC7AA8D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.BodyMassIndex", "Kyu8\Kyu8.BodyMassIndex\Kyu8.BodyMassIndex.csproj", "{C115DE7C-0BB7-429D-96D0-6EBBFC7AA8D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.BodyMassIndex.Tests", "Kyu8.BodyMassIndex.Tests\Kyu8.BodyMassIndex.Tests.csproj", "{10E35714-9EDF-40EF-8455-E3BA2472055E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.BodyMassIndex.Tests", "Kyu8\Kyu8.BodyMassIndex.Tests\Kyu8.BodyMassIndex.Tests.csproj", "{10E35714-9EDF-40EF-8455-E3BA2472055E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.CuboidVolume", "Kyu8.CuboidVolume\Kyu8.CuboidVolume.csproj", "{CE648CD1-8D28-470E-89CC-2A1F36E5987B}"
 EndProject
