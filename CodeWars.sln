@@ -7,49 +7,49 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Tests", "HelloWorld.Tests\HelloWorld.Tests.csproj", "{C2BF5EE8-CB98-452B-A314-4D2C9B49DDDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller", "Kyu6.HelpTheBookSeller\Kyu6.HelpTheBookSeller.csproj", "{B78B4230-21E6-4FDF-B22D-68267DEC5D8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller", "Kyu6\Kyu6.HelpTheBookSeller\Kyu6.HelpTheBookSeller.csproj", "{B78B4230-21E6-4FDF-B22D-68267DEC5D8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller.Tests", "Kyu6.HelpTheBookSeller.Tests\Kyu6.HelpTheBookSeller.Tests.csproj", "{8164086D-2858-4272-B039-19388F609684}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller.Tests", "Kyu6\Kyu6.HelpTheBookSeller.Tests\Kyu6.HelpTheBookSeller.Tests.csproj", "{8164086D-2858-4272-B039-19388F609684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.HowGoodAreYouReally", "Kyu8.HowGoodAreYouReally\Kyu8.HowGoodAreYouReally.csproj", "{17EB0A2E-DB8C-4EE3-91A5-803BE9D337BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.HowGoodAreYouReally", "Kyu8\Kyu8.HowGoodAreYouReally\Kyu8.HowGoodAreYouReally.csproj", "{17EB0A2E-DB8C-4EE3-91A5-803BE9D337BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.HowGoodAreYouReally.Tests", "Kyu8.HowGoodAreYouReally.Tests\Kyu8.HowGoodAreYouReally.Tests.csproj", "{6BD2855F-A144-4D83-A27D-5CB4A48982A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.HowGoodAreYouReally.Tests", "Kyu8\Kyu8.HowGoodAreYouReally.Tests\Kyu8.HowGoodAreYouReally.Tests.csproj", "{6BD2855F-A144-4D83-A27D-5CB4A48982A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.PlayingWithDigits", "Kyu6.PlayingWithDigits\Kyu6.PlayingWithDigits.csproj", "{008C0559-D94F-4A71-9407-6D27135F9058}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.PlayingWithDigits", "Kyu6\Kyu6.PlayingWithDigits\Kyu6.PlayingWithDigits.csproj", "{008C0559-D94F-4A71-9407-6D27135F9058}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.PlayingWithDigits.Tests", "Kyu6.PlayingWithDigits.Tests\Kyu6.PlayingWithDigits.Tests.csproj", "{52C9C0DB-2D1B-4067-8821-F007F04FC920}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.PlayingWithDigits.Tests", "Kyu6\Kyu6.PlayingWithDigits.Tests\Kyu6.PlayingWithDigits.Tests.csproj", "{52C9C0DB-2D1B-4067-8821-F007F04FC920}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.InvertValues", "Kyu8.InvertValues\Kyu8.InvertValues.csproj", "{A381C99B-3783-4D19-BBA1-F330561B4DD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.InvertValues", "Kyu8\Kyu8.InvertValues\Kyu8.InvertValues.csproj", "{A381C99B-3783-4D19-BBA1-F330561B4DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.InvertValues.Tests", "Kyu8.InvertValues.Tests\Kyu8.InvertValues.Tests.csproj", "{27373F87-9D7C-41E7-82FB-406A4BE5B2D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.InvertValues.Tests", "Kyu8\Kyu8.InvertValues.Tests\Kyu8.InvertValues.Tests.csproj", "{27373F87-9D7C-41E7-82FB-406A4BE5B2D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.TheFallingSpeedOfPetals", "Kyu8.TheFallingSpeedOfPetals\Kyu8.TheFallingSpeedOfPetals.csproj", "{829FA6BB-A469-4642-833B-6ACFD40E9F47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.TheFallingSpeedOfPetals", "Kyu8\Kyu8.TheFallingSpeedOfPetals\Kyu8.TheFallingSpeedOfPetals.csproj", "{829FA6BB-A469-4642-833B-6ACFD40E9F47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.TheFallingSpeedOfPetals.Tests", "Kyu8.TheFallingSpeedOfPetals.Tests\Kyu8.TheFallingSpeedOfPetals.Tests.csproj", "{E4C2BC03-83FB-487A-90D2-6300107E6AFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.TheFallingSpeedOfPetals.Tests", "Kyu8\Kyu8.TheFallingSpeedOfPetals.Tests\Kyu8.TheFallingSpeedOfPetals.Tests.csproj", "{E4C2BC03-83FB-487A-90D2-6300107E6AFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.BouncingBall", "Kyu6.BouncingBall\Kyu6.BouncingBall.csproj", "{399E806A-A7F1-4EDD-BB98-395134D25D5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.BouncingBall", "Kyu6\Kyu6.BouncingBall\Kyu6.BouncingBall.csproj", "{399E806A-A7F1-4EDD-BB98-395134D25D5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.BouncingBall.Tests", "Kyu6.BouncingBall.Tests\Kyu6.BouncingBall.Tests.csproj", "{1C37715B-1E95-4307-B321-DF528A78B00E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.BouncingBall.Tests", "Kyu6\Kyu6.BouncingBall.Tests\Kyu6.BouncingBall.Tests.csproj", "{1C37715B-1E95-4307-B321-DF528A78B00E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.GrasshopperGradeBook", "Kyu8.GrasshopperGradeBook\Kyu8.GrasshopperGradeBook.csproj", "{DD7EAAD4-535C-4083-A142-D954D66AD689}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.GrasshopperGradeBook", "Kyu8\Kyu8.GrasshopperGradeBook\Kyu8.GrasshopperGradeBook.csproj", "{DD7EAAD4-535C-4083-A142-D954D66AD689}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.GrasshopperGradeBook.Tests", "Kyu8.GrasshopperGradeBook.Tests\Kyu8.GrasshopperGradeBook.Tests.csproj", "{E1A84473-BA56-4F20-BFFD-798391C3EE71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.GrasshopperGradeBook.Tests", "Kyu8\Kyu8.GrasshopperGradeBook.Tests\Kyu8.GrasshopperGradeBook.Tests.csproj", "{E1A84473-BA56-4F20-BFFD-798391C3EE71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt", "Kyu6.WhoLikesIt\Kyu6.WhoLikesIt.csproj", "{405CFCC1-78DF-4B80-838C-D1B26FF7BC6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt", "Kyu6\Kyu6.WhoLikesIt\Kyu6.WhoLikesIt.csproj", "{405CFCC1-78DF-4B80-838C-D1B26FF7BC6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt.Tests", "Kyu6.WhoLikesIt.Tests\Kyu6.WhoLikesIt.Tests.csproj", "{BA91145E-3C20-4749-B4DB-37F859B57D9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt.Tests", "Kyu6\Kyu6.WhoLikesIt.Tests\Kyu6.WhoLikesIt.Tests.csproj", "{BA91145E-3C20-4749-B4DB-37F859B57D9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.BodyMassIndex", "Kyu8.BodyMassIndex\Kyu8.BodyMassIndex.csproj", "{C115DE7C-0BB7-429D-96D0-6EBBFC7AA8D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.BodyMassIndex", "Kyu8\Kyu8.BodyMassIndex\Kyu8.BodyMassIndex.csproj", "{C115DE7C-0BB7-429D-96D0-6EBBFC7AA8D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.BodyMassIndex.Tests", "Kyu8.BodyMassIndex.Tests\Kyu8.BodyMassIndex.Tests.csproj", "{10E35714-9EDF-40EF-8455-E3BA2472055E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.BodyMassIndex.Tests", "Kyu8\Kyu8.BodyMassIndex.Tests\Kyu8.BodyMassIndex.Tests.csproj", "{10E35714-9EDF-40EF-8455-E3BA2472055E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.CuboidVolume", "Kyu8.CuboidVolume\Kyu8.CuboidVolume.csproj", "{CE648CD1-8D28-470E-89CC-2A1F36E5987B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.CuboidVolume", "Kyu8\Kyu8.CuboidVolume\Kyu8.CuboidVolume.csproj", "{CE648CD1-8D28-470E-89CC-2A1F36E5987B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.CuboidVolume.Tests", "Kyu8.CuboidVolume.Tests\Kyu8.CuboidVolume.Tests.csproj", "{97AE0090-EB6D-492F-A62A-197EEBA25101}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.CuboidVolume.Tests", "Kyu8\Kyu8.CuboidVolume.Tests\Kyu8.CuboidVolume.Tests.csproj", "{97AE0090-EB6D-492F-A62A-197EEBA25101}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.ReplaceWithAlphabetIndex", "Kyu6.ReplaceWithAlphabetIndex\Kyu6.ReplaceWithAlphabetIndex.csproj", "{0A6A6FCD-F490-493D-A1E8-6B629B849FD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.ReplaceWithAlphabetIndex", "Kyu6\Kyu6.ReplaceWithAlphabetIndex\Kyu6.ReplaceWithAlphabetIndex.csproj", "{0A6A6FCD-F490-493D-A1E8-6B629B849FD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.ReplaceWithAlphabetIndex.Tests", "Kyu6.ReplaceWithAlphabetIndex.Tests\Kyu6.ReplaceWithAlphabetIndex.Tests.csproj", "{728D49FF-252E-457F-9B61-120F934E6A12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.ReplaceWithAlphabetIndex.Tests", "Kyu6\Kyu6.ReplaceWithAlphabetIndex.Tests\Kyu6.ReplaceWithAlphabetIndex.Tests.csproj", "{728D49FF-252E-457F-9B61-120F934E6A12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
