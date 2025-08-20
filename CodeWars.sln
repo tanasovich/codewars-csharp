@@ -35,9 +35,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.GrasshopperGradeBook",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.GrasshopperGradeBook.Tests", "Kyu8.GrasshopperGradeBook.Tests\Kyu8.GrasshopperGradeBook.Tests.csproj", "{E1A84473-BA56-4F20-BFFD-798391C3EE71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt", "Kyu6.WhoLikesIt\Kyu6.WhoLikesIt.csproj", "{405CFCC1-78DF-4B80-838C-D1B26FF7BC6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt", "Kyu6\Kyu6.WhoLikesIt\Kyu6.WhoLikesIt.csproj", "{405CFCC1-78DF-4B80-838C-D1B26FF7BC6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt.Tests", "Kyu6.WhoLikesIt.Tests\Kyu6.WhoLikesIt.Tests.csproj", "{BA91145E-3C20-4749-B4DB-37F859B57D9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt.Tests", "Kyu6\Kyu6.WhoLikesIt.Tests\Kyu6.WhoLikesIt.Tests.csproj", "{BA91145E-3C20-4749-B4DB-37F859B57D9D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.BodyMassIndex", "Kyu8.BodyMassIndex\Kyu8.BodyMassIndex.csproj", "{C115DE7C-0BB7-429D-96D0-6EBBFC7AA8D6}"
 EndProject
