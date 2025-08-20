@@ -31,9 +31,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.BouncingBall", "Kyu6\K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.BouncingBall.Tests", "Kyu6\Kyu6.BouncingBall.Tests\Kyu6.BouncingBall.Tests.csproj", "{1C37715B-1E95-4307-B321-DF528A78B00E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.GrasshopperGradeBook", "Kyu8.GrasshopperGradeBook\Kyu8.GrasshopperGradeBook.csproj", "{DD7EAAD4-535C-4083-A142-D954D66AD689}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.GrasshopperGradeBook", "Kyu8\Kyu8.GrasshopperGradeBook\Kyu8.GrasshopperGradeBook.csproj", "{DD7EAAD4-535C-4083-A142-D954D66AD689}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.GrasshopperGradeBook.Tests", "Kyu8.GrasshopperGradeBook.Tests\Kyu8.GrasshopperGradeBook.Tests.csproj", "{E1A84473-BA56-4F20-BFFD-798391C3EE71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.GrasshopperGradeBook.Tests", "Kyu8\Kyu8.GrasshopperGradeBook.Tests\Kyu8.GrasshopperGradeBook.Tests.csproj", "{E1A84473-BA56-4F20-BFFD-798391C3EE71}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.WhoLikesIt", "Kyu6\Kyu6.WhoLikesIt\Kyu6.WhoLikesIt.csproj", "{405CFCC1-78DF-4B80-838C-D1B26FF7BC6B}"
 EndProject
