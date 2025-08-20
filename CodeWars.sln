@@ -23,9 +23,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.InvertValues", "Kyu8\K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.InvertValues.Tests", "Kyu8\Kyu8.InvertValues.Tests\Kyu8.InvertValues.Tests.csproj", "{27373F87-9D7C-41E7-82FB-406A4BE5B2D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.TheFallingSpeedOfPetals", "Kyu8.TheFallingSpeedOfPetals\Kyu8.TheFallingSpeedOfPetals.csproj", "{829FA6BB-A469-4642-833B-6ACFD40E9F47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.TheFallingSpeedOfPetals", "Kyu8\Kyu8.TheFallingSpeedOfPetals\Kyu8.TheFallingSpeedOfPetals.csproj", "{829FA6BB-A469-4642-833B-6ACFD40E9F47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.TheFallingSpeedOfPetals.Tests", "Kyu8.TheFallingSpeedOfPetals.Tests\Kyu8.TheFallingSpeedOfPetals.Tests.csproj", "{E4C2BC03-83FB-487A-90D2-6300107E6AFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.TheFallingSpeedOfPetals.Tests", "Kyu8\Kyu8.TheFallingSpeedOfPetals.Tests\Kyu8.TheFallingSpeedOfPetals.Tests.csproj", "{E4C2BC03-83FB-487A-90D2-6300107E6AFC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.BouncingBall", "Kyu6\Kyu6.BouncingBall\Kyu6.BouncingBall.csproj", "{399E806A-A7F1-4EDD-BB98-395134D25D5E}"
 EndProject
