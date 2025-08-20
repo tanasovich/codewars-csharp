@@ -27,9 +27,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.TheFallingSpeedOfPetal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.TheFallingSpeedOfPetals.Tests", "Kyu8.TheFallingSpeedOfPetals.Tests\Kyu8.TheFallingSpeedOfPetals.Tests.csproj", "{E4C2BC03-83FB-487A-90D2-6300107E6AFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.BouncingBall", "Kyu6.BouncingBall\Kyu6.BouncingBall.csproj", "{399E806A-A7F1-4EDD-BB98-395134D25D5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.BouncingBall", "Kyu6\Kyu6.BouncingBall\Kyu6.BouncingBall.csproj", "{399E806A-A7F1-4EDD-BB98-395134D25D5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.BouncingBall.Tests", "Kyu6.BouncingBall.Tests\Kyu6.BouncingBall.Tests.csproj", "{1C37715B-1E95-4307-B321-DF528A78B00E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.BouncingBall.Tests", "Kyu6\Kyu6.BouncingBall.Tests\Kyu6.BouncingBall.Tests.csproj", "{1C37715B-1E95-4307-B321-DF528A78B00E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.GrasshopperGradeBook", "Kyu8.GrasshopperGradeBook\Kyu8.GrasshopperGradeBook.csproj", "{DD7EAAD4-535C-4083-A142-D954D66AD689}"
 EndProject
