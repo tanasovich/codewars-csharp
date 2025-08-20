@@ -11,9 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller", "K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.HelpTheBookSeller.Tests", "Kyu6\Kyu6.HelpTheBookSeller.Tests\Kyu6.HelpTheBookSeller.Tests.csproj", "{8164086D-2858-4272-B039-19388F609684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.HowGoodAreYouReally", "Kyu8.HowGoodAreYouReally\Kyu8.HowGoodAreYouReally.csproj", "{17EB0A2E-DB8C-4EE3-91A5-803BE9D337BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.HowGoodAreYouReally", "Kyu8\Kyu8.HowGoodAreYouReally\Kyu8.HowGoodAreYouReally.csproj", "{17EB0A2E-DB8C-4EE3-91A5-803BE9D337BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.HowGoodAreYouReally.Tests", "Kyu8.HowGoodAreYouReally.Tests\Kyu8.HowGoodAreYouReally.Tests.csproj", "{6BD2855F-A144-4D83-A27D-5CB4A48982A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.HowGoodAreYouReally.Tests", "Kyu8\Kyu8.HowGoodAreYouReally.Tests\Kyu8.HowGoodAreYouReally.Tests.csproj", "{6BD2855F-A144-4D83-A27D-5CB4A48982A4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.PlayingWithDigits", "Kyu6\Kyu6.PlayingWithDigits\Kyu6.PlayingWithDigits.csproj", "{008C0559-D94F-4A71-9407-6D27135F9058}"
 EndProject
