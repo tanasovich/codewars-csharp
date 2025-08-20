@@ -43,9 +43,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.BodyMassIndex", "Kyu8\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.BodyMassIndex.Tests", "Kyu8\Kyu8.BodyMassIndex.Tests\Kyu8.BodyMassIndex.Tests.csproj", "{10E35714-9EDF-40EF-8455-E3BA2472055E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.CuboidVolume", "Kyu8.CuboidVolume\Kyu8.CuboidVolume.csproj", "{CE648CD1-8D28-470E-89CC-2A1F36E5987B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.CuboidVolume", "Kyu8\Kyu8.CuboidVolume\Kyu8.CuboidVolume.csproj", "{CE648CD1-8D28-470E-89CC-2A1F36E5987B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.CuboidVolume.Tests", "Kyu8.CuboidVolume.Tests\Kyu8.CuboidVolume.Tests.csproj", "{97AE0090-EB6D-492F-A62A-197EEBA25101}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu8.CuboidVolume.Tests", "Kyu8\Kyu8.CuboidVolume.Tests\Kyu8.CuboidVolume.Tests.csproj", "{97AE0090-EB6D-492F-A62A-197EEBA25101}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kyu6.ReplaceWithAlphabetIndex", "Kyu6\Kyu6.ReplaceWithAlphabetIndex\Kyu6.ReplaceWithAlphabetIndex.csproj", "{0A6A6FCD-F490-493D-A1E8-6B629B849FD4}"
 EndProject
